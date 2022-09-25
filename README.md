@@ -8,4 +8,4 @@ Zamanlama diyagramı aşağıda gösterilmiştir. Mesafeyi başlatmak için teti
 ve yankı sinyali alma arasındaki zaman aralığı boyunca aralığı hesaplayabilirsiniz. Formül: uS / 58 = santimetre veya uS / 148 = inç; veya: aralık = yüksek 
 seviye zaman * hız (340M/S) / 2; yankı sinyaline tetikleme sinyali gelmesini önlemek için 60 ms'den fazla ölçüm döngüsü kullanmanızı öneririz.
 
-Mikrosaniye için hazır kütüphane kullanımdın.
+dwt_stm32_delay.c ve dwt_stm32_delay.h dosyaları mikrosaniye için hazır kütüphanelerdir.
